@@ -24,7 +24,7 @@ const getAllProducts = async (req,res) => {
         const operatorMap = {
             '>' : '$gt',
             '>=' : '$gte',
-            '=' : '$e',
+            '=' : '$eq',
             '<' : '$lt',
             '<=' : '$lte'
         }
