@@ -1,6 +1,6 @@
-#### Jobs API
+#### Project in Action
 
-[Project in Action -] (https://jobs-api-04-project.herokuapp.com/)
+https://jobs-api-04-project.herokuapp.com
 
 #### Setup
 
